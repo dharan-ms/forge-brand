@@ -1,0 +1,4 @@
+{
+  "summary": "Replaced the real atelier contact details, social profiles, and stock records with example placeholders. Phone is +1 (555) 010-0142, email is studio@example.com, social links point at example.com, and the builds list uses EX-01 through EX-08 sample cards. The homepage layout is unchanged. Contact and builds pages were checked in the browser.",
+  "current_status": "The Forge-style React site is complete locally at http://localhost:5173/. Business contact data and real stock listings have been swapped for example content."
+}

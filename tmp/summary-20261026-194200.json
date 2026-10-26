@@ -1,0 +1,4 @@
+{
+  "summary": "The dev server failed because port 5173 was already taken by an earlier Vite process. That process was stopped, and the port is free again so npm run dev can start.",
+  "current_status": "The Forge-style React site is in place with example contact details. Port 5173 is free for a fresh dev server."
+}

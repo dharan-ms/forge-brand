@@ -1,0 +1,4 @@
+{
+  "summary": "Rebuilt the Forge Automotive site from the supplied scroll video as a React app. The homepage follows the recorded sequence: hero with the three cars and For Those Who Refuse Ordinary, the manifesto collage, approach, Identity/Insight/Cohesion, services, Ordinary/Ends Here, previous builds, stock, and the rear-view Refuse Ordinary close. Navigation, builds, stock, and the contact form were checked in the browser. The dev server is running at http://localhost:5173/.",
+  "current_status": "React recreation of the Forge homepage is implemented and verified in the browser. Vite is serving the app locally; the scroll story, menu, builds page, and contact submission work."
+}

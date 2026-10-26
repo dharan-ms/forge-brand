@@ -1,0 +1,4 @@
+{
+  "summary": "Added the supplied CloudFront MP4 as a muted looping background behind the hero cars and headline. The browser confirmed the video is playing at full width with the existing hero layout still on top.",
+  "current_status": "The site is running at http://localhost:5173/. The hero now has the video background; social icons stay removed and contact details remain example placeholders."
+}

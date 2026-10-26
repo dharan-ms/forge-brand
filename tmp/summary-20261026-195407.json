@@ -1,0 +1,4 @@
+{
+  "summary": "Moved the hero subtitle into the empty black area on the right of the cars. A leftover GSAP horizontal offset was still pulling it over the right car; the hero tween now keeps that offset at zero, and the caption sits clear of the Defender. Confirmed with a clipped screenshot at a 1440 by 900 viewport, then cleared the device override.",
+  "current_status": "Forge-style React homepage is in place with example contact details, no header social icons, a looping starfield hero video, the headline raised off the red hood, and the atelier line parked in the right-side empty space. Dev server is the user npm run dev on localhost port 5173."
+}

@@ -1,0 +1,4 @@
+{
+  "summary": "Enlarged the hero atelier line from 15px to 19px and moved it lower in the empty black margin to the right of the cars, still clear of the Defender and below the video light streak. Checked the placement on a 1440 by 900 viewport.",
+  "current_status": "The Forge-style React homepage is running on localhost port 5173. Hero video, raised headline, and the larger lower-right atelier caption are in place, with example contact details and no header social icons."
+}
